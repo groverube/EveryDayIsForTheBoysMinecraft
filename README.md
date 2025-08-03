@@ -1,10 +1,8 @@
 # EveryDayIsForTheBoysMinecraft
 Our servers mods to make it easy for everyones installation. All credits go to the mod creators.
 
-Minecraft Version: 1.21.8
-
 ## Mods Installation
-1. Download - [Fabric](https://fabricmc.net/use/installer/)
+1. Download [Fabric](https://fabricmc.net/use/installer/)
 2. Close Minecraft and install Fabric
 3. Open and close Minecraft once to create all the directories
 4. Type and open run in the Windows search bar
@@ -24,7 +22,7 @@ Minecraft Version: 1.21.8
 18. Ensure that the Fabric version is selected and launch
 
 ## Shaders Installation
-1. Ensure - [Iris Shaders](https://modrinth.com/mod/iris) is installed in the modlist
+1. Ensure [Iris Shaders](https://modrinth.com/mod/iris) is installed in the modlist
 2. Launch Minecraft
 2. Click Options...
 3. Click Video Settings...
@@ -33,8 +31,7 @@ Minecraft Version: 1.21.8
 6. Drag and drop the zipped shaders into the folder
 
 ## Modlist
-### Required: 
-### Core
+### Required:
 - [Fabric](https://fabricmc.net/use/installer/)
 - [Fabric API](https://modrinth.com/mod/fabric-api)
 - [Cicada](https://modrinth.com/mod/cicada)
