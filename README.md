@@ -4,7 +4,7 @@ Our servers mods to make it easy for everyones installation. All credits go to t
 Minecraft Version: 1.21.8
 
 ## Mods Installation
-1. Download ![Fabric](https://fabricmc.net/use/installer/)
+1. Download - [Fabric](https://fabricmc.net/use/installer/)
 2. Close Minecraft and install Fabric
 3. Open and close Minecraft once to create all the directories
 4. Type and open run in the Windows search bar
@@ -18,13 +18,13 @@ Minecraft Version: 1.21.8
 12. Next to the versions click the 3 dots then "Edit"
 13. Click more options
 14. Locate the JVM arguments field
-15. Adjust -Xmx2G (To "2" your desired RAM, G = GB)
+15. Adjust -Xmx2G and change "2" your desired RAM, where G = GB
 16. Click Save
 17. Click the Play tab
 18. Ensure that the Fabric version is selected and launch
 
 ## Shaders Installation
-1. Ensure ![Iris Shaders](https://modrinth.com/mod/iris) is installed in the modlist
+1. Ensure - [Iris Shaders](https://modrinth.com/mod/iris) is installed in the modlist
 2. Launch Minecraft
 2. Click Options...
 3. Click Video Settings...
@@ -34,19 +34,20 @@ Minecraft Version: 1.21.8
 
 ## Modlist
 ### Required: 
-![Fabric](https://fabricmc.net/use/installer/)
-![Fabric API](https://modrinth.com/mod/fabric-api)
-![Cicada](https://modrinth.com/mod/cicada)
+### Core
+- [Fabric](https://fabricmc.net/use/installer/)
+- [Fabric API](https://modrinth.com/mod/fabric-api)
+- [Cicada](https://modrinth.com/mod/cicada)
 
-### Optimisations:
-![Sodium](https://modrinth.com/mod/sodium)
-![Lithium](https://modrinth.com/mod/lithium)
-![FerriteCore](https://modrinth.com/mod/ferrite-core)
+### Optimisations
+- [Sodium](https://modrinth.com/mod/sodium)
+- [Lithium](https://modrinth.com/mod/lithium)
+- [FerriteCore](https://modrinth.com/mod/ferrite-core)
 
-### Visuals:
-![Iris Shaders](https://modrinth.com/mod/iris)
+### Visuals
+- [Iris Shaders](https://modrinth.com/mod/iris)
 
-### Gameplay:
-![Distant Horizons](https://modrinth.com/mod/distanthorizons)
-![Shulker Box Tooltip](https://modrinth.com/mod/shulkerboxtooltip)
-![Do a Barrel Roll](https://modrinth.com/mod/do-a-barrel-roll)
+### Gameplay
+- [Distant Horizons](https://modrinth.com/mod/distanthorizons)
+- [Shulker Box Tooltip](https://modrinth.com/mod/shulkerboxtooltip)
+- [Do a Barrel Roll](https://modrinth.com/mod/do-a-barrel-roll)
