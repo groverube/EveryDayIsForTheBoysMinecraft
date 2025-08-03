@@ -35,6 +35,8 @@ Our servers mods to make it easy for everyones installation. All credits go to t
 - [Fabric](https://fabricmc.net/use/installer/)
 - [Fabric API](https://modrinth.com/mod/fabric-api)
 - [Cicada](https://modrinth.com/mod/cicada)
+- [Mod Menu](https://modrinth.com/mod/modmenu)
+- [YetAnotherConfigLib](https://modrinth.com/mod/yacl)
 
 ### Optimisations
 - [Sodium](https://modrinth.com/mod/sodium)
@@ -45,7 +47,6 @@ Our servers mods to make it easy for everyones installation. All credits go to t
 - [Iris Shaders](https://modrinth.com/mod/iris)
 
 ### Gameplay
-- [Mod Menu](https://modrinth.com/mod/modmenu)
 - [Distant Horizons](https://modrinth.com/mod/distanthorizons)
 - [Shulker Box Tooltip](https://modrinth.com/mod/shulkerboxtooltip)
 - [Do a Barrel Roll](https://modrinth.com/mod/do-a-barrel-roll)
