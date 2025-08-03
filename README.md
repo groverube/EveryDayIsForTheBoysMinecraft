@@ -45,6 +45,7 @@ Our servers mods to make it easy for everyones installation. All credits go to t
 - [Iris Shaders](https://modrinth.com/mod/iris)
 
 ### Gameplay
+- [Mod Menu](https://modrinth.com/mod/modmenu)
 - [Distant Horizons](https://modrinth.com/mod/distanthorizons)
 - [Shulker Box Tooltip](https://modrinth.com/mod/shulkerboxtooltip)
 - [Do a Barrel Roll](https://modrinth.com/mod/do-a-barrel-roll)
